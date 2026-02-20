@@ -4,13 +4,12 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ1NTc0bWVxemJ6bnhlZDF3d3N6b3M5MjIzNHZybzBpbnZtZXZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T3Vx6sVAXzuU0/giphy.gif" width="200" alt="Luffy running" />
 
-## 🏴‍☠️ About Me — Nakama Info
+## 🏴‍☠️ About Me
 
 - 🎓 Mahasiswa passionate di **Web & Mobile Development**
 - 💡 Suka membangun aplikasi yang **bermanfaat dan fungsional**
 - 🌱 Sedang mempelajari **TypeScript & Docker**
 - 📍 Based in **Indonesia** 🇮🇩
-- 💬 *"Orang yang tidak bisa melawan air mata, tidak bisa melawan!"* — Zoro
 
 ---
 
