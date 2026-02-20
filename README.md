@@ -9,6 +9,7 @@
 ## 👤 About Me
 
 <img align="right" src="https://media.giphy.com/media/3ohzdQ1IynzclMzOQg/giphy.gif" width="160" alt="One Piece"/>
+
 - 🔥 Passionate di **Web & Mobile Development**
 - 🎓 Mahasiswa **S1 & S2 Universitas Esa Unggul**
 - 🛠️ Membangun aplikasi yang **fungsional & bermanfaat**
