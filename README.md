@@ -56,12 +56,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WagYu31&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FFD700&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagYu31&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD700&langs_count=6"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=WagYu31&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FFD700&count_private=true&cache_seconds=3600" width="48%"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagYu31&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD700&langs_count=6&cache_seconds=3600" width="38%"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WagYu31&theme=tokyonight&hide_border=true&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WagYu31&theme=tokyonight&hide_border=true&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700" width="60%"/>
 </div>
 
 ---
@@ -69,7 +72,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WagYu31&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=5"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=WagYu31&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=5&no-bg=true"/>
 </div>
 
 ---
