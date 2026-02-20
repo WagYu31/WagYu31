@@ -69,11 +69,12 @@
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WagYu31)
+[![GitHub](https://img.shields.io/badge/GitHub-WagYu31-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WagYu31)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyuutomo@gmail.com)
 
 </div>
 
@@ -81,10 +82,10 @@
 
 <div align="center">
 
-*⚓ "The Sea is waiting — keep coding, keep sailing." ⚓*
+### ⚓ *"Hidup adalah petualangan — terus berlayar, terus berkembang!"*
 
-![Views](https://komarev.com/ghpvc/?username=WagYu31&label=Profile+Views&color=FFD700&style=flat)
+<br/>
+
+![Views](https://komarev.com/ghpvc/?username=WagYu31&label=👀%20Profile%20Views&color=FFD700&style=for-the-badge)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:1a1a2e,100:0d1117&height=120&section=footer)
