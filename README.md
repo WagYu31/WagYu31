@@ -5,7 +5,6 @@
 
 - 🎓 Mahasiswa passionate di **Web & Mobile Development**
 - 💡 Suka membangun aplikasi yang **bermanfaat dan fungsional**
-- 🌱 Sedang mempelajari **TypeScript & Docker**
 - 📍 Based in **Indonesia** 🇮🇩
 
 ---
