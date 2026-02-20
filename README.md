@@ -56,12 +56,8 @@
 
 <div align="center">
 
-[![WagYu31's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WagYu31&theme=tokyo-night&hide_border=true&color=FFD700&line=FFD700&point=FF6B35)](https://github.com/WagYu31)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=WagYu31&theme=tokyo-night&bg_color=0d1117&color=FFD700&line=FF6B35&point=FFD700&area=true&hide_border=true&custom_title=⚓%20WagYu31%20Contribution%20Chart)](https://github.com/WagYu31)
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WagYu31&theme=tokyonight&hide_border=true&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700" width="60%"/>
 </div>
 
 <div align="center">
