@@ -1,13 +1,4 @@
-<div align="center">
-
-# ⚓ 私はこの海の王になる！ ⚓
-### ~ *"I'm gonna be King of the Pirates!"* ~
-
-<img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Laravel+%7C+PHP+%7C+Flutter+%F0%9F%94%A5;I+will+be+the+King+of+Pirates!+%E2%9A%93;Never+give+up+on+your+dreams!+%F0%9F%8C%9F" alt="Typing SVG" />
-
-![Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=WagYu31&fontSize=50&fontColor=FFD700&animation=twinkling&fontAlignY=35)
-
-</div>
+src="https://raw.githubusercontent.com/WagYu31/WagYu31/main/ace-banner.jpg" width="100%" alt="Portgas D. Ace - One Piece Banner"/>
 
 ---
 
