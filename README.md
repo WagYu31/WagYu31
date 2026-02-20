@@ -77,14 +77,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WagYu31&theme=tokyo-night&bg_color=0d1117&color=FFD700&line=FFD700&point=FF6B35&hide_border=true"/>
-</div>
-
----
-
 ## 📫 Connect
 
 <div align="center">
