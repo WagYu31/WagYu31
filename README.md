@@ -52,14 +52,11 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=WagYu31&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FFD700&count_private=true&cache_seconds=3600" width="48%"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WagYu31&layout=compact&theme=tokyonight&hide_border=true&title_color=FFD700&langs_count=6&cache_seconds=3600" width="38%"/>
+[![WagYu31's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WagYu31&theme=tokyo-night&hide_border=true&color=FFD700&line=FFD700&point=FF6B35)](https://github.com/WagYu31)
 
 </div>
 
@@ -67,12 +64,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WagYu31&theme=tokyonight&hide_border=true&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700" width="60%"/>
 </div>
 
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WagYu31&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WagYu31&theme=tokyonight)
+
+</div>
+
 ---
 
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WagYu31&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=5&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=WagYu31&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=5"/>
 </div>
 
 ---
