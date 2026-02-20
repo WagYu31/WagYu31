@@ -1,4 +1,6 @@
-src="https://raw.githubusercontent.com/WagYu31/WagYu31/main/ace-banner.jpg" width="100%" alt="Portgas D. Ace - One Piece Banner"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WagYu31/WagYu31/main/ace-banner.jpg" .../>
+</div>
 
 ---
 
