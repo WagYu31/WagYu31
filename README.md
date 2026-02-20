@@ -74,7 +74,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-WagYu31-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WagYu31)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyuutomo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-wahyuwutomo31@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyuwutomo31@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-085771593522-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285771593522)
 
 </div>
 
