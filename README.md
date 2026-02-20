@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:e94560&height=200&section=header&text=WagYu31%20⚓&fontSize=70&fontColor=FFD700&animation=fadeIn&fontAlignY=45)
 ---
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ1NTc0bWVxemJ6bnhlZDF3d3N6b3M5MjIzNHZybzBpbnZtZXZ6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T3Vx6sVAXzuU0/giphy.gif" width="200" alt="Luffy running" />
-
+<img align="right" src="https://media.giphy.com/media/3ohzdQ1IynzclMzOQg/giphy.gif" width="180" alt="One Piece"/>
 ## 🏴‍☠️ About Me
 
 - 🎓 Mahasiswa passionate di **Web & Mobile Development**
