@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.imgur.com/8bKSN4R.jpeg" width="100%" alt="One Piece Banner"/>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:e94560&height=200&section=header&text=WagYu31%20⚓&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Nakama%20of%20Code&descAlignY=55&descColor=ffffff)
 
 ---
 
