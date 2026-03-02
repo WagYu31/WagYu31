@@ -1,20 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:e94560&height=180&section=header&text=WagYu31%20⚓&fontSize=65&fontColor=FFD700&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:e94560&height=200&section=header&text=WagYu31%20⚓&fontSize=70&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20🚀&descSize=18&descColor=c9d1d9&descAlignY=58)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;Laravel+%7C+PHP+%7C+Flutter;%22I+will+be+King+of+the+Pirates!%22+%E2%9A%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Go+%7C+Laravel+%7C+React+Native+%7C+Flutter;Building+SnapShop+E-commerce+Platform+%F0%9F%9B%8D;%22I+will+be+King+of+the+Pirates!%22+%E2%9A%93" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👤 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding"/>
 
-- 🔥 Passionate di **Web & Mobile Development**
-- 🎓 Mahasiswa **S1 & S2 Universitas Esa Unggul**
-- 🛠️ Membangun aplikasi yang **fungsional & bermanfaat**
-- 🌱 Sedang mendalami **TypeScript & Docker**
-- 🎯 Terbuka untuk **kolaborasi & proyek baru**
+```yaml
+Name: Wahyu Utomo
+Location: Indonesia 🇮🇩
+Education: S1 & S2 Universitas Esa Unggul
+Focus: Web & Mobile Development
+Currently: Building SnapShop E-commerce 🛍️
+Learning: Go Microservices, Docker, CI/CD
+Fun Fact: "I will be King of the Pirates!" ⚓
+```
+
+<br clear="right"/>
 
 ---
 
@@ -22,51 +28,84 @@
 
 <div align="center">
 
-**Backend & Languages**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=go,php,python,java,cpp,js,ts&theme=dark&perline=7" alt="Languages" />
+</p>
 
-**Frontend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 Frontend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,laravel,html,css,tailwind&theme=dark&perline=7" alt="Frontend" />
+</p>
 
-**Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark&perline=3" alt="Mobile" />
+</p>
 
-**Tools & Environment**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,mysql,postgres,nginx,linux&theme=dark&perline=7" alt="DevOps" />
+</p>
+
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WagYu31&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WagYu31&theme=tokyonight)
+  <picture>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WagYu31&theme=tokyonight" alt="Stats" />
+  </picture>
+  <picture>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WagYu31&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+  </picture>
 
-<img src="https://streak-stats.demolab.com?user=WagYu31&theme=tokyonight&background=0d1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&border=1a1a2e" width="60%" />
+  <br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=WagYu31&theme=tokyonight&background=0d1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&border=1a1a2e&hide_border=false" alt="Streak" />
+
+  <br/><br/>
+
+  <picture>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WagYu31&theme=tokyonight" alt="Repos per Language" />
+  </picture>
+  <picture>
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WagYu31&theme=tokyonight" alt="Most Commit Language" />
+  </picture>
+
+  <br/>
+
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WagYu31&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
+  <img src="https://raw.githubusercontent.com/WagYu31/WagYu31/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WagYu31&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WagYu31&theme=tokyonight)
+---
 
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/WagYu31/SnapShop-E-commerce-">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WagYu31&repo=SnapShop-E-commerce-&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&icon_color=FFD700&title_color=FFD700" alt="SnapShop" />
+  </a>
 </div>
 
 ---
@@ -75,9 +114,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-WagYu31-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WagYu31)
-[![Gmail](https://img.shields.io/badge/Gmail-wahyuwutomo31@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyuwutomo31@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-085771593522-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285771593522)
+  [![GitHub](https://img.shields.io/badge/GitHub-WagYu31-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WagYu31)
+  [![Gmail](https://img.shields.io/badge/Gmail-wahyuwutomo31-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyuwutomo31@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285771593522)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 </div>
 
@@ -85,10 +125,12 @@
 
 <div align="center">
 
-### ⚓ *"Hidup adalah petualangan — terus berlayar, terus berkembang!"*
+  ### ⚓ *"Hidup adalah petualangan — terus berlayar, terus berkembang!"*
 
-<br/>
+  <br/>
 
-![Views](https://komarev.com/ghpvc/?username=WagYu31&label=👀%20Profile%20Views&color=FFD700&style=for-the-badge)
+  ![Views](https://komarev.com/ghpvc/?username=WagYu31&label=👀%20Profile%20Views&color=FFD700&style=for-the-badge)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:1a1a2e,100:0d1117&height=100&section=footer)
