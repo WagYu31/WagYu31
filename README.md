@@ -210,46 +210,38 @@ Attendance management system — employee check-in/out, reports & role-based man
 
 <br/>
 
-## 📫 **Connect With Me**
+<h2 align="center">📫 Connect With Me</h2>
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
+<p align="center">
   <a href="https://github.com/WagYu31">
-    <img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" width="100%"/>
+    <img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white&labelColor=6e40c9" height="35"/>
   </a>
-</td>
-<td align="center" width="25%">
+  &nbsp;
   <a href="mailto:wahyuwutomo31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="100%"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="35"/>
   </a>
-</td>
-<td align="center" width="25%">
+  &nbsp;
   <a href="https://wa.me/6285771593522">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="100%"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="35"/>
   </a>
-</td>
-<td align="center" width="25%">
+  &nbsp;
   <a href="https://linkedin.com/in/wahyu-utomo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35"/>
   </a>
-</td>
-</tr>
-</table>
-</div>
+</p>
 
 <br/>
 
 <div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20is%20an%20adventure%20%E2%80%94%20keep%20sailing%2C%20keep%20growing!&author=WagYu31%20%E2%9A%93" alt="Quote"/>
-
-  <br/>
-
-  ![Views](https://komarev.com/ghpvc/?username=WagYu31&label=👀%20Profile%20Views&color=FFD700&style=for-the-badge)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20is%20an%20adventure%20%E2%80%94%20keep%20sailing%2C%20keep%20growing!&author=WagYu31%20%E2%9A%93" width="70%" alt="Quote"/>
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WagYu31&label=👀%20Profile%20Views&color=FFD700&style=for-the-badge" alt="Views"/>
+</p>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:1a1a2e,100:0d1117&height=100&section=footer)
+
 
