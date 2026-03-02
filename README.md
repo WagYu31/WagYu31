@@ -90,6 +90,15 @@ Fun Fact: "I will be King of the Pirates!" ⚓
   <a href="https://github.com/WagYu31/SnapShop-E-commerce-">
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WagYu31&repo=SnapShop-E-commerce-&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&icon_color=FFD700&title_color=FFD700" alt="SnapShop" />
   </a>
+  <a href="https://github.com/WagYu31/iagi-geosea-2026">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WagYu31&repo=iagi-geosea-2026&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&icon_color=FFD700&title_color=FFD700" alt="IAGI Geosea" />
+  </a>
+  <a href="https://github.com/WagYu31/WEBSITE-PT.Senja-Wisata-Indonesia">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WagYu31&repo=WEBSITE-PT.Senja-Wisata-Indonesia&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&icon_color=FFD700&title_color=FFD700" alt="Senja Wisata" />
+  </a>
+  <a href="https://github.com/WagYu31/dojohkc-absensi">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WagYu31&repo=dojohkc-absensi&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&icon_color=FFD700&title_color=FFD700" alt="Dojohkc Absensi" />
+  </a>
 </div>
 
 ---
