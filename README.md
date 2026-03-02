@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-<img align="right" src="https://media.giphy.com/media/3ohzdQ1IynzclMzOQg/giphy.gif" width="160" alt="One Piece"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding"/>
 
 - 🔥 Passionate di **Web & Mobile Development**
 - 🎓 Mahasiswa **S1 & S2 Universitas Esa Unggul**
@@ -56,7 +56,8 @@
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=WagYu31&theme=tokyo-night&bg_color=0d1117&color=FFD700&line=FF6B35&point=FFD700&area=true&hide_border=true&custom_title=⚓%20WagYu31%20Contribution%20Chart)](https://github.com/WagYu31)
+<img src="https://github-readme-stats.vercel.app/api?username=WagYu31&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&icon_color=FF6B35&border_color=1a1a2e&hide_border=false" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=WagYu31&theme=tokyonight&background=0d1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&border=1a1a2e" width="49%" />
 
 </div>
 
