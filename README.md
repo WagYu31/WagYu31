@@ -4,9 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Go+%7C+Laravel+%7C+React+Native+%7C+Flutter;Building+SnapShop+E-commerce+Platform+%F0%9F%9B%8D;%22I+will+be+King+of+the+Pirates!%22+%E2%9A%93" alt="Typing SVG" />
 </div>
 
----
+<br/>
 
-## 👤 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coding"/>
 
@@ -22,9 +24,9 @@ Fun Fact: "I will be King of the Pirates!" ⚓
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 <div align="center">
 
@@ -50,7 +52,7 @@ Fun Fact: "I will be King of the Pirates!" ⚓
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -82,26 +84,60 @@ Fun Fact: "I will be King of the Pirates!" ⚓
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/WagYu31/SnapShop-E-commerce-">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WagYu31&repo=SnapShop-E-commerce-&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&icon_color=FFD700&title_color=FFD700" alt="SnapShop" />
-  </a>
-  <a href="https://github.com/WagYu31/iagi-geosea-2026">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WagYu31&repo=iagi-geosea-2026&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&icon_color=FFD700&title_color=FFD700" alt="IAGI Geosea" />
-  </a>
-  <a href="https://github.com/WagYu31/WEBSITE-PT.Senja-Wisata-Indonesia">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WagYu31&repo=WEBSITE-PT.Senja-Wisata-Indonesia&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&icon_color=FFD700&title_color=FFD700" alt="Senja Wisata" />
-  </a>
-  <a href="https://github.com/WagYu31/dojohkc-absensi">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=WagYu31&repo=dojohkc-absensi&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&icon_color=FFD700&title_color=FFD700" alt="Dojohkc Absensi" />
-  </a>
+<table>
+<tr>
+<td width="50%">
+
+### 🛍️ SnapShop E-commerce
+**Full-stack e-commerce** — React Native mobile app + Go REST API (modular monolith) + React admin dashboard. PostgreSQL, Docker, 6-level RBAC.
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WagYu31/SnapShop-E-commerce-)
+
+`Go` `React Native` `TypeScript` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%">
+
+### 🌏 IAGI GEOSEA 2026
+**Conference platform** — PIT IAGI-GEOSEA 2026 paper submission & review system. Full-stack web application for academic event management.
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WagYu31/iagi-geosea-2026)
+
+`JavaScript` `Next.js` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✈️ PT. Senja Wisata Indonesia
+**Company website** — Travel agency platform for PT. Senja Wisata Indonesia. Tour packages, booking system, and admin management.
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WagYu31/WEBSITE-PT.Senja-Wisata-Indonesia)
+
+`TypeScript` `Next.js` `Tailwind CSS`
+
+</td>
+<td width="50%">
+
+### 📋 Dojohkc Absensi
+**Attendance system** — Sistem absensi untuk DOJO HKC. Employee check-in/out with reports and role-based management.
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WagYu31/dojohkc-absensi)
+
+`PHP` `Laravel` `MySQL`
+
+</td>
+</tr>
+</table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📫 Connect With Me
 
@@ -114,7 +150,7 @@ Fun Fact: "I will be King of the Pirates!" ⚓
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
