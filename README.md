@@ -217,7 +217,7 @@ Attendance management system — employee check-in/out, reports & role-based man
 <tr>
 <td align="center" width="25%">
   <a href="https://github.com/WagYu31">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" width="100%"/>
+    <img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" width="100%"/>
   </a>
 </td>
 <td align="center" width="25%">
@@ -231,7 +231,7 @@ Attendance management system — employee check-in/out, reports & role-based man
   </a>
 </td>
 <td align="center" width="25%">
-  <a href="https://linkedin.com/in/">
+  <a href="https://linkedin.com/in/wahyu-utomo">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"/>
   </a>
 </td>
@@ -243,14 +243,13 @@ Attendance management system — employee check-in/out, reports & role-based man
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Hidup%20adalah%20petualangan%20%E2%80%94%20terus%20berlayar%2C%20terus%20berkembang!&author=WagYu31%20%E2%9A%93" alt="Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Life%20is%20an%20adventure%20%E2%80%94%20keep%20sailing%2C%20keep%20growing!&author=WagYu31%20%E2%9A%93" alt="Quote"/>
 
-  <br/><br/>
+  <br/>
 
   ![Views](https://komarev.com/ghpvc/?username=WagYu31&label=👀%20Profile%20Views&color=FFD700&style=for-the-badge)
 
 </div>
 
-<br/>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:1a1a2e,100:0d1117&height=100&section=footer)
+
