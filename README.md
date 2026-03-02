@@ -56,8 +56,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WagYu31&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&icon_color=FF6B35&border_color=1a1a2e&hide_border=false" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=WagYu31&theme=tokyonight&background=0d1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&border=1a1a2e" width="49%" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WagYu31&theme=tokyonight)
+
+<img src="https://streak-stats.demolab.com?user=WagYu31&theme=tokyonight&background=0d1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&border=1a1a2e" width="60%" />
 
 </div>
 
