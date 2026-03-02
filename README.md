@@ -52,14 +52,6 @@ Fun Fact: "I will be King of the Pirates!" ⚓
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WagYu31&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -88,14 +80,6 @@ Fun Fact: "I will be King of the Pirates!" ⚓
 
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WagYu31&theme=tokyonight" alt="Profile Details" />
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/WagYu31/WagYu31/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
