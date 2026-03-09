@@ -84,10 +84,10 @@ Fun Fact: "I will be King of the Pirates!" ⚓
 <div align="center">
 
   <picture>
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WagYu31&theme=tokyonight" alt="Stats" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WagYu31&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&icon_color=FFD700&title_color=FFD700" alt="Stats" />
   </picture>
   <picture>
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WagYu31&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WagYu31&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&title_color=FFD700&langs_count=8" alt="Top Languages" />
   </picture>
 
   <br/>
@@ -97,15 +97,8 @@ Fun Fact: "I will be King of the Pirates!" ⚓
   <br/><br/>
 
   <picture>
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WagYu31&theme=tokyonight" alt="Repos per Language" />
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=WagYu31&theme=tokyo-night&bg_color=0d1117&color=FFD700&line=e94560&point=FFD700&area=true&hide_border=false" alt="Activity Graph" />
   </picture>
-  <picture>
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WagYu31&theme=tokyonight" alt="Most Commit Language" />
-  </picture>
-
-  <br/>
-
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WagYu31&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
