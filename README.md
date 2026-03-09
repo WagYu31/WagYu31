@@ -194,6 +194,31 @@ Attendance management system — employee check-in/out, reports & role-based man
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏠 PT. Putra Kawan Lama Property</h3>
+
+<p align="center">
+  <a href="https://github.com/WagYu31/PT.Putra-Kawan-Lama-Property">
+    <img src="https://img.shields.io/badge/VIEW_REPO-FFD700?style=for-the-badge&logo=github&logoColor=0d1117" alt="Repo"/>
+  </a>
+</p>
+
+Property rental & sale platform — **Next.js** frontend + **Go** backend API. Installment payments with Midtrans, live chat & admin dashboard.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 </div>
 
