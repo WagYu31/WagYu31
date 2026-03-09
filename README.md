@@ -87,7 +87,7 @@ Fun Fact: "I will be King of the Pirates!" ⚓
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=WagYu31&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&icon_color=FFD700&title_color=FFD700" alt="Stats" />
   </picture>
   <picture>
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WagYu31&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&title_color=FFD700&langs_count=8" alt="Top Languages" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WagYu31&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1a1a2e&title_color=FFD700&langs_count=10&hide=html,css" alt="Top Languages" />
   </picture>
 
   <br/>
