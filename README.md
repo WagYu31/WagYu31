@@ -218,7 +218,7 @@ Property rental & sale platform — **Next.js** frontend + **Go** backend API. I
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">&#127891; <Academic Information System & E-Learning STIA</h3>
+<h3 align="center">&#127891; SIAKAD & E-Learning STIA</h3>
 
 <p align="center">
     <a href="https://github.com/WagYu31/WEBSITE-SIAKAD-ELEARNING-">
@@ -226,7 +226,7 @@ Property rental & sale platform — **Next.js** frontend + **Go** backend API. I
     </a>
 </p>
 
-Academic information system and e-learning portal for STIA Bayuangga - student portal, course scheduling, grades and learning management.
+Academic information system & e-learning portal for STIA Bayuangga - student portal, course scheduling, grades & learning management.
 
 <p align="center">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
