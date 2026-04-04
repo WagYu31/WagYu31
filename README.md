@@ -217,8 +217,25 @@ Property rental & sale platform — **Next.js** frontend + **Go** backend API. I
 
 </td>
 <td width="50%" valign="top">
+
+<h3 align="center">&#127891; <Academic Information System & E-Learning STIA</h3>
+
+<p align="center">
+    <a href="https://github.com/WagYu31/WEBSITE-SIAKAD-ELEARNING-">
+          <img src="https://img.shields.io/badge/VIEW_REPO-FFD700?style=for-the-badge&logo=github&logoColor=0d1117" alt="Repo"/>
+    </a>
+</p>
+
+Academic information system and e-learning portal for STIA Bayuangga - student portal, course scheduling, grades and learning management.
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 </td>
-</tr>
+  <tr>
 </table>
 </div>
 
@@ -235,7 +252,7 @@ Property rental & sale platform — **Next.js** frontend + **Go** backend API. I
     <img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white&labelColor=6e40c9" height="35"/>
   </a>
   &nbsp;
-  <a href="mailto:wahyuwutomo31@gmail.com">
+  <a href="mailto:wahyuwutomo31@gmail.com"
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="35"/>
   </a>
   &nbsp;
@@ -244,7 +261,7 @@ Property rental & sale platform — **Next.js** frontend + **Go** backend API. I
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/wahyu-utomo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="35"/
   </a>
 </p>
 
